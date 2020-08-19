@@ -121,18 +121,3 @@ p.text span {
     color: #6feaf6;
 }
 
-.button-group {
-    cursor: default;
-}
-
-.button-group button {
-    cursor: pointer;
-    background-color: #535175;
-    color: #f1f1f1;
-    border-radius: 5px;
-    box-shadow: 10px 5px 5px rgba(0, 0, 0, .2);
-    font-size: 18px;
-    margin: 20px 15px;
-    padding: 10px;
-}
-
